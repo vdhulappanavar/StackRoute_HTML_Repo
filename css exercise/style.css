@@ -1,17 +1,20 @@
 .wrap{
-    width : 850px;
+    /*width : 850px;*/
+    width : 80%;
     margin: auto;
 }
-
+.content,aside{
+    height : 600px;
+}
 .content{
     background-color: #0066FF; 
     float:left;
-    width:600px;
+    width:70%;
 }
 
 aside{
     background-color:#e83a56;
-   float:left
+   float:left;/*can be floated to right*/
     
 }
 
