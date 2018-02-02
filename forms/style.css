@@ -1,0 +1,12 @@
+form li{
+    list-style: none;
+    margin-bottom: 10px;
+}
+
+from ul{
+    padding-left:0px;
+}
+
+label{
+    display: block;/*to display label on diffrent line*/
+}
