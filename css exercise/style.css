@@ -1,5 +1,6 @@
 .wrap{
     /*width : 850px;*/
+    min-width:600px;
     width : 80%;
     margin: auto;
 }
@@ -9,11 +10,12 @@
 .content{
     background-color: #0066FF; 
     float:left;
-    width:70%;
+    width:90%;
 }
 
 aside{
     background-color:#e83a56;
+    width:10%;
    float:left;/*can be floated to right*/
     
 }
