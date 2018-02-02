@@ -1,5 +1,5 @@
 .wrap{
-    width : 800px;
+    width : 850px;
     margin: auto;
 }
 
@@ -11,4 +11,6 @@
 
 aside{
     background-color:#e83a56;
+   float:left
+    
 }
