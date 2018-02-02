@@ -10,6 +10,9 @@ from ul{
 label{
     display: block;/*to display label on diffrent line*/
     cursor: pointer;
+    color:#292929;
+    font-family: sans-serif;
+    padding-bottom: 10px;
 }
 
 textarea{
