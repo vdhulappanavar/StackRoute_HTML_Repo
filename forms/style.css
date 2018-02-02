@@ -10,3 +10,8 @@ from ul{
 label{
     display: block;/*to display label on diffrent line*/
 }
+
+textarea{
+    width: 300px;
+    height: 300px;
+}
