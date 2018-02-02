@@ -9,6 +9,7 @@ from ul{
 
 label{
     display: block;/*to display label on diffrent line*/
+    cursor: pointer;
 }
 
 textarea{
