@@ -6,4 +6,6 @@ h1{
     letter-spacing: -5px;
     color:grey;
     text-transform: uppercase;
+    /*css3 property text-shadow takes 2 vales a x offset and a y offset thrid argument is how much blur there shoul be*/
+    text-shadow: 5px 10px 10px red;
 }
