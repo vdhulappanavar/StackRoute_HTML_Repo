@@ -7,5 +7,6 @@ h1{
     color:grey;
     text-transform: uppercase;
     /*css3 property text-shadow takes 2 vales a x offset and a y offset thrid argument is how much blur there shoul be*/
-    text-shadow: 5px 10px 10px red;
+    text-shadow: 2px 3px 15px #292929;
+    /*2929292a stuble olor of black*/
 }
