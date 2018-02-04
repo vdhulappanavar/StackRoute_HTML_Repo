@@ -15,5 +15,7 @@ h1{
 
 
     /*to achive a glow effec the settting are*/
-    text-shadow: 5px 1px 0 white;
+    text-shadow: 
+        5px 1px 0 white,
+        6px 2px 0 red;/*a second shawdow to the first one, comma seprated values*/
 }
