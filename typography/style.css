@@ -4,4 +4,6 @@ h1{
     margin-top: 10px;
     font-family: monospace;
     letter-spacing: -5px;
+    color:grey;
+    text-transform: uppercase;
 }
