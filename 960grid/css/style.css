@@ -27,3 +27,7 @@ header{
 nav{
     background: orange;
 }
+
+section{
+    padding:10px;
+}
