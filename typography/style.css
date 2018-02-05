@@ -5,7 +5,8 @@ h1{
     font-size: 120px;
     text-align: center;
     margin-top: 10px;
-    font-family: monospace;
+    /*font-family: monospace;*/
+    font-family: 'Indie Flower', cursive;
     letter-spacing: -5px;
     color:black;
     text-transform: uppercase;
