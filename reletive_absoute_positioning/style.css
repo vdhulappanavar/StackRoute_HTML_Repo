@@ -3,4 +3,7 @@
     height: 400px;
     margin: auto;
     background: red;
+    position: relative;
+    /*top: 200px;*/ /* this basically means that some one pushes the div from the top by 200px*/
+
 }
