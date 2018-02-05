@@ -49,9 +49,9 @@ body{
 
 .call-out-containers{
     max-width: 1400px;
-    margin: 40px auto;
+    margin: 40 px auto;
     display: flex;
-    align-items:  flex-start; 
+    align-items:  flex-end; 
 }
 
 .call-out{
