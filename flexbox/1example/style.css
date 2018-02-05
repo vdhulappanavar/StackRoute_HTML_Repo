@@ -31,3 +31,15 @@ body{
     padding: 10px;
     display: flex;
 }
+
+.main-col{
+    flex:1;
+}
+
+.sidebar-one{
+    flex:1;
+}
+
+.sidebar-two{
+    flex:1;
+}
