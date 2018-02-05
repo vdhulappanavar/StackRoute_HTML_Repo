@@ -15,9 +15,13 @@ a{
     /*color: green;*/
     color:#276056;
 }
-
-.meta a{
+.meta{
+    padding-left: 0;
+    margin: 0 0 8px;
+}
+.meta a , .author_info a{
     font-style: italic;
+    font-size: 14px;
 }
 
 .meta li:after{
@@ -27,7 +31,7 @@ a{
 }
 
 
-.meta li:last-child{
+.meta li:last-child:after{
     content:none;
 }
 
@@ -40,14 +44,35 @@ h2{
     line-height: 43px;
 }
 
+article h2{
+    margin:0;
+}
+
 article.article1 img{
     float: left;
     margin-right:30px;
 }
 
-
-
 .preview{
     float : right;
     width:350px;
+}
+
+.author_info{
+    background-color: #f3f3f3;
+    color: #999;
+    padding: 3px;
+    float:left;
+}
+
+.author_info a{
+    color: #999;
+}
+
+.author_info a:hover{
+    color: black;
+}
+
+.body{
+    clear:both;
 }
