@@ -51,13 +51,15 @@ body{
     max-width: 1400px;
     margin: 40px auto;
     display: flex;
-    align-items:  stretch; 
+    align-items:  stretch;
+    
 }
 
 .call-out{
     padding: 20px;
     margin-bottom: 20px;
     flex:1;
+    margin-right:  10px;
 }
 
 .call-out:nth-child(1){
