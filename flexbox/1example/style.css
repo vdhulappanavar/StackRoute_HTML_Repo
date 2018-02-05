@@ -50,10 +50,16 @@ body{
 .call-out-containers{
     max-width: 1400px;
     margin: 40px auto;
-    display: flex;
-    align-items:  stretch;
-    justify-content: left;   /*left, right , center all three are pretty intresting*/
+     
     
+}
+
+@media(min-width:900px  ){
+     .call-out-containers{
+        display: flex;
+        align-items:  stretch;
+        justify-content: space-between;   /*left, right , center all three are pretty intresting*/
+     }
 }
 
 .call-out{
