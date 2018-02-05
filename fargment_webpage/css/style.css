@@ -10,6 +10,10 @@ body{
     */
     font-family: sans-serif;
 }
+p{
+    font-size:14px;
+    line-height: 21px;
+}
 
 a{
     /*color: green;*/
@@ -77,5 +81,5 @@ article.article1 img{
 .body{
     clear:both;
     color:#575757;
-    font-size:14px;
+    /*font-size:14px;*/
 }
