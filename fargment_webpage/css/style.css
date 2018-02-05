@@ -1,4 +1,14 @@
 body{
     width:600px;
-    margin:auto;
+    /*margin:auto;*/
+    margin: 20px auto; /* top and bottom 20px and left and right is auto*/
+    /*one of the short hand for margin is first arg for top adn bottom and the other left and right
+    also the other short hands include top right bottom and left clockwise i.e
+    if we put in aonly three values the missing value will be subsitute by its counter parts
+    value, if you the counter part not to get that value then you will have to explicity mention 
+    0 in the place
+    */
+
+
+
 }
