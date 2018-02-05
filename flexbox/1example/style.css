@@ -52,14 +52,17 @@ body{
     margin: 40px auto;
     display: flex;
     align-items:  stretch;
+    justify-content: space-between;  /*left, right , center all three are pretty intresting*/
     
 }
 
 .call-out{
     padding: 20px;
     margin-bottom: 20px;
-    flex:1;
-    margin-right:  10px;
+    /*flex:1;*/
+    width: 30%;
+    box-sizing: border-box; 
+    /*margin-right:  10px;*/
 }
 
 .call-out:last-child{
