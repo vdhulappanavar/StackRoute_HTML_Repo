@@ -16,5 +16,9 @@ aside{
 
 header{
     background: yellow;
-    overflow: hidden;
+    /*overflow: hidden;*/
+}
+
+.main{
+    margin: 30px 0;
 }
