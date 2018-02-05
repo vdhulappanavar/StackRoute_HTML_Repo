@@ -8,12 +8,38 @@ body{
     value, if you the counter part not to get that value then you will have to explicity mention 
     0 in the place
     */
+    font-family: sans-serif;
+}
+
+a{
+    /*color: green;*/
+    color:#276056;
+}
+
+.meta a{
+    font-style: italic;
+}
+
+.meta a:after{
+    content: '|';
+    padding:0 10px;
+}
+
+.meta li{
+    display: inline;
+}
+h2{
+    font-size: 39px;
+    /*line-height: 1em;*//*size of one letter m*/
+    line-height: 43px;
 }
 
 article.article1 img{
     float: left;
     margin-right:30px;
 }
+
+
 
 .preview{
     float : right;
