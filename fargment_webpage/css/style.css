@@ -1,5 +1,5 @@
 body{
-    width:600px;
+    width:800px;
     /*margin:auto;*/
     margin: 20px auto; /* top and bottom 20px and left and right is auto*/
     /*one of the short hand for margin is first arg for top adn bottom and the other left and right
@@ -12,4 +12,10 @@ body{
 
 article.article1 img{
     float: left;
+    margin-right:30px;
+}
+
+.preview{
+    float : right;
+    width:350px;
 }
