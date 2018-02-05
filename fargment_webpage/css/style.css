@@ -8,7 +8,8 @@ body{
     value, if you the counter part not to get that value then you will have to explicity mention 
     0 in the place
     */
+}
 
-
-
+article.article1 img{
+    float: left;
 }
