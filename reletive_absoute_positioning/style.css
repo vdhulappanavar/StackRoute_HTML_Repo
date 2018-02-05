@@ -16,7 +16,7 @@ body{
     margin: auto;
     background: red;
     /*position: relative;*/
-    position: absolute;
+    position: relative;
     /*top: 200px;*/ /* this basically means that some one pushes the div from the top by 200px*/
     /*right: 200px;*/ /* some one pushing from the right*/
     left: 20px;
