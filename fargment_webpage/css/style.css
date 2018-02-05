@@ -63,6 +63,7 @@ article.article1 img{
     color: #999;
     padding: 3px;
     float:left;
+    font-size:14px;
 }
 
 .author_info a{
@@ -75,4 +76,6 @@ article.article1 img{
 
 .body{
     clear:both;
+    color:#575757;
+    font-size:14px;
 }
