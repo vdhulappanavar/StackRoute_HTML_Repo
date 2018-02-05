@@ -1,0 +1,33 @@
+body{
+    background: grey;
+}
+.container{
+    width:500px;
+    margin:30px auto;
+    background: white;
+    padding:10px;
+   
+}
+
+.form-row{
+    padding:10px 0;
+    display: flex;
+}
+
+.form-row label{
+    padding-right:10px;
+}
+
+.form-row input{
+    flex:1;
+}
+
+.col-layout{
+    max-width: 1300px;
+    line-height: 1.65;
+    background: white;
+    width:900px;
+    margin:auto;
+    padding: 10px;
+    display: flex;
+}
