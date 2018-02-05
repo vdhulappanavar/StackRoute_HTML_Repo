@@ -15,8 +15,7 @@ body{
 }
 
 .form-row label{
-    padding-right:100px;
-    flex:1;
+    padding-right:10px;
 }
 
 .form-row input{
@@ -35,12 +34,15 @@ body{
 
 .main-col{
     flex:2;
+    order:2;
 }
 
 .sidebar-one{
     flex:1;
+    order:1;
 }
 
 .sidebar-two{
     flex:1;
+    order:3;
 }
