@@ -2,14 +2,23 @@ body{
     margin: 0;
 }
 
+.wrap{
+    height : 600px;
+    width: 600px;
+    background-color:gray;
+    margin:auto;
+}
+
+
 .box{
     width: 400px;
     height: 400px;
     margin: auto;
     background: red;
     /*position: relative;*/
+    position: absolute;
     /*top: 200px;*/ /* this basically means that some one pushes the div from the top by 200px*/
     /*right: 200px;*/ /* some one pushing from the right*/
-    left: 400px;
-    bottom: 200px;
+    left: 20px;
+    bottom: 20px;
 }
