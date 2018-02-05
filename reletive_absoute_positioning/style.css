@@ -13,12 +13,12 @@ body{
 .box{
     width: 400px;
     height: 400px;
-    margin: auto;
+    /*margin: auto;*/
     background: red;
     /*position: relative;*/
     position: relative;
     /*top: 200px;*/ /* this basically means that some one pushes the div from the top by 200px*/
     /*right: 200px;*/ /* some one pushing from the right*/
-    left: 20px;
+    left: -20px;
     bottom: 20px;
 }
