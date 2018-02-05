@@ -1,0 +1,20 @@
+.container_12{
+    background: red;
+}
+
+nav li{
+    display: inline;
+}
+
+aside{
+    background: green;
+}
+
+.primary{
+    background: grey;
+}
+
+header{
+    background: yellow;
+    overflow: hidden;
+}
