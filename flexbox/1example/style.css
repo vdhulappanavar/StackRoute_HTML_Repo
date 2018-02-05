@@ -15,7 +15,8 @@ body{
 }
 
 .form-row label{
-    padding-right:10px;
+    padding-right:100px;
+    flex:1;
 }
 
 .form-row input{
