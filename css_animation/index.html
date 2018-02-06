@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+
+    <style>
+         #mainDiv{
+              width:400px;
+              height: 400px;
+              margin: 200px auto;
+              perspective: 800px;
+              /*
+                persepective is a property that defines how far
+                a 3D element is placed from view
+                when we aplly this element the child elemnet will get
+                persepctive,not the element on which it is defined 
+                so boxdiv will get perspective rather than maindiv
+              */
+             /*   background-color:green; added for testing*/
+              border: 5px  solid black; 
+         }
+
+         #test{
+             width:100px;
+             height:100px;
+             background-color: yellow;
+         }
+    </style>
+
+
+
+</head>
+<body>
+    <div id="test">
+
+    </div>
+
+    <div id="mainDiv">
+        <div class="" id="boxDiv">
+            <div id="front"></div>
+            <div id="back"></div>
+            <div id="left"></div>
+            <div id="right"></div>
+            <div id="top"></div>
+            <div id="bottom"></div>
+        </div>
+    </div>
+    <div id="mainDiv ">
+        <div id="boxDiv"> 
+            <div id="front"></div>
+            <div id="back"></div>
+            <div id="left"></div>
+            <div id="right"></div>
+            <div id="top "></div>
+            <div id="bottom"></div>
+
+        </div>
+    </div>
+</body>
+</html>
