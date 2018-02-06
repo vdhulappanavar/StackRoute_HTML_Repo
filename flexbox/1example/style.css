@@ -58,7 +58,7 @@ body{
      .call-out-containers{
         display: flex;
         align-items:  stretch;
-         justify-content: space-between;   /*left, right , center all three are pretty intresting*/
+         justify-content: space-around;   /*left, right , center all three are pretty intresting*/
      }
 }
 
