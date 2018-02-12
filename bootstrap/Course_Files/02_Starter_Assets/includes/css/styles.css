@@ -1,4 +1,4 @@
-/*
+ /*
 
 My Custom CSS
 =============
@@ -31,7 +31,11 @@ Notes:	 Hand coded for Udemy.com
 /* --------------------------------------
    Carousel
    -------------------------------------- */
+#myCarousel .item{height:400px;background: green;}
 
+.item #slide1{
+    background: url('../../images/carousel_medium_01.jpg') top center no-repeat;
+}
 
 
 /* --------------------------------------
